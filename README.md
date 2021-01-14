@@ -16,7 +16,7 @@ Every iteration weakest empire loses one if its colonies, to other empire(the st
 
 ## Cryptic parameters
 
-![pic should be here :()](https://raw.githubusercontent.com/tomsiemek/imperialistic-competitive-algorithm-visualisation/master/pics/beta-gamma.png)
+![pic should be here :()](https://github.com/mohsen-oloumi/imperialistic-competitive-algorithm/blob/main/pic/beta-gamma.png)
 
 **Alpha** - [0, 1] - coefficient in calculating total empire power - how important are colonies in evaluation value of empire
 
